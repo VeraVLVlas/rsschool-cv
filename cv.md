@@ -21,8 +21,11 @@ Git
 
 ## My Projects
 [Online store with the goods for cats](https://github.com/VeraVLVlas/1432899-cat-energy-20)
+
 [Video Service App](https://github.com/VeraVLVlas/videoServiceApp-)
+
 [Website about a US town](https://github.com/VeraVLVlas/1432899-sedona-28)
+
 [Web studio's website](https://github.com/VeraVLVlas/1432899-nerds-28)
 
 ## Education
